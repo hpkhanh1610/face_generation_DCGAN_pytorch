@@ -1,4 +1,4 @@
-# Face Generation using Deep Convolutional Generative Adverasial Network (DCGAN) in PyTorch
+# Face Generation using Deep Convolutional Generative Adversarial Network (DCGAN) in PyTorch
 
 In this project, we'll define and train a DCGAN on a dataset of faces. The goal is to get a generator network to generate *new* images of faces that look as realistic as possible!
 
